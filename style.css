@@ -1,4 +1,4 @@
-#header {
+header {
     background-color: #0e0e0e;
     color: white;
     padding: 5px;
@@ -7,7 +7,7 @@
     z-index: 2;
   }
   
-  #nav {
+  nav {
     text-align: right;
     margin-bottom: 10px;
     position: fixed;
@@ -16,14 +16,14 @@
     z-index: 2;
   }
   
-  #nav li {
+  nav li {
     display: inline-block;
     width: 60px;
     padding: 5px;
     text-align: center;
   }
   
-  #nav a {
+  nav a {
     text-decoration: none;
     color: white;
   }
@@ -36,14 +36,14 @@
     margin: 0px 5%;
   }
   
-  #footer {
+  footer {
     height: 100px;
     color: white;
     position: relative;
     top: 150px;
   }
   
-  #footer li {
+  footer li {
    display: inline;
   }
   
